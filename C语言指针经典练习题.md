@@ -189,7 +189,7 @@ printf("%s", a);
 
 **思路**：
 
-![](https://pad.degrowth.net/uploads/upload_85774756e1fb770c35548f15c254b315.png)
+![7CFEAF61CF5BDD462991D1CC75FC1059](http://l1q.one:8080/i/2023/07/18/12birab.png)
 
 答案：abcefhiklnqtw
 
